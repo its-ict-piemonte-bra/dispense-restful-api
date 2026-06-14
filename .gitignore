@@ -1,0 +1,4 @@
+.lesson/questions/*
+!.lesson/questions/README.md
+
+*.pdf
