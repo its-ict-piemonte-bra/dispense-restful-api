@@ -30,6 +30,8 @@ Oggi il nome **Swagger** identifica principalmente la suite di strumenti di Smar
 Fanno parte di questa suite Swagger UI, Swagger Editor e Swagger Codegen.
 OpenAPI e Swagger non sono quindi standard concorrenti: il secondo è l'origine storica del primo.
 
+> Estensione per VS Code: https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi
+
 ### La sezione components e i riferimenti
 La sezione **components** raccoglie definizioni riutilizzabili.
 Può contenere schemi, parametri, risposte e configurazioni di sicurezza.
